@@ -9,7 +9,7 @@ Launch options(which should be placed in CSGO->Setting->Launch Option):
 
 Special key-bind instuction below:
 
-  -'w' 's' 'a' d\tclean blood
+  -'w' 's' 'a' 'd'  clean blood
   
   -'mouse whee up'  jump
   
