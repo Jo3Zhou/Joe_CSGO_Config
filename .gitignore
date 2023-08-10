@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!joe.cfg
+!README.md
+!bind_default.cfg
+!cals.cfg
+!demo.cfg
+!ffmpeg.cfg
+!hlae.cfg
+!joe.cfg
+!practice.cfg
+!solo.cfg
+!stream.cfg
+!lab.cfg
